@@ -61,3 +61,7 @@ a:active {
   -o-background-size: cover;
   background-size: cover;
 }
+
+.btn-group{
+    padding-bottom: 20px;
+}
