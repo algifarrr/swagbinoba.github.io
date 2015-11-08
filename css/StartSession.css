@@ -32,6 +32,7 @@ p, div {
     margin-left: 35%;
     font-size: 16px;
     background: rgba(255,255,255,0.2);	
+    margin-top: 20%;
 }
 
 #pic{
@@ -60,8 +61,4 @@ a:active {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}
-
-.btn-group{
-    padding-bottom: 20px;
 }
